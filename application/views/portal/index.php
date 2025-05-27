@@ -37,7 +37,7 @@
                             <div class="card-icon">
                                 <img src="<?= base_url('assets/images/' . $site->image) ?>" alt="<?= $site->name ?>" class="card-img">
                             </div>
-                            <h5 class="card-title"><?= $site->name ?></h5>
+                            <p class="card-title"><?= $site->name ?></p>
                         </a>
                     </div>
                 </div>
